@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about-me/</loc>
   </url><url>
@@ -16,21 +16,12 @@
     <loc>http://localhost:1313/cv/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/i-wrote-my-first-bash-script/</loc>
-    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/learning-resources/</loc>
-    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/public/</loc>
-    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/personal/</loc>
+    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/week-25-2024/</loc>
@@ -43,6 +34,9 @@
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/database-of-inspirational-organizations/</loc>
+    <lastmod>2024-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/learning-resources/</loc>
     <lastmod>2024-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/week-23-2024/</loc>

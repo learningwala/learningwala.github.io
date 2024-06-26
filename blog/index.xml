@@ -9,35 +9,8 @@
     <managingEditor>mihir@learningwala.in (Mihir Pathak)</managingEditor>
     <webMaster>mihir@learningwala.in (Mihir Pathak)</webMaster>
     <copyright>Mihir Pathak (CC BY 4.0)</copyright>
-    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I wrote my first bash script</title>
-      <link>http://localhost:1313/blog/i-wrote-my-first-bash-script/</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate><author>mihir@learningwala.in (Mihir Pathak)</author>
-      <guid>http://localhost:1313/blog/i-wrote-my-first-bash-script/</guid>
-      <description>&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD A Bash script is a file containing a series of commands that are executed by the Bash shell (Bourne Again SHell). It allows for the automation of repetitive tasks, configuration, and management of systems. it is super interesting to write and test A Bash script is a file containing a series of commands that are executed by the Bash shell (Bourne Again SHell). It allows for the automation of repetitive tasks, configuration, and management of systems.</description>
-      <content:encoded><![CDATA[<h1 id="it-is-super-interesting-to-write-and-test">&laquo;&laquo;&laquo;&lt; HEAD
-A Bash script is a file containing a series of commands that are executed by the Bash shell (Bourne Again SHell). It allows for the automation of repetitive tasks, configuration, and management of systems.
-it is super interesting to write and test</h1>
-<p>A Bash script is a file containing a series of commands that are executed by the Bash shell (Bourne Again SHell). It allows for the automation of repetitive tasks, configuration, and management of systems.</p>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<p>b3b30c9 (Updated main website on 2024-06-25 22:03:30)</p>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-]]></content:encoded>
-    </item>
     <item>
       <title>Week 25/2025</title>
       <link>http://localhost:1313/blog/week-25-2024/</link>
