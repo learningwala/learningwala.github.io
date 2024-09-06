@@ -7,9 +7,9 @@
   </url><url>
     <loc>http://localhost:1313/about-me/</loc>
   </url><url>
-    <loc>http://localhost:1313/media/</loc>
-  </url><url>
     <loc>http://localhost:1313/work/</loc>
+  </url><url>
+    <loc>http://localhost:1313/media/</loc>
   </url><url>
     <loc>http://localhost:1313/writings/</loc>
   </url><url>
