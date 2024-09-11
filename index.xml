@@ -12,12 +12,13 @@
     <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About me</title>
+      <title>About</title>
       <link>http://localhost:1313/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mihir@learningwala.in (Mihir Pathak)</author>
       <guid>http://localhost:1313/about-me/</guid>
       <description>I craft transformative learning journeys for children and young adults, through experiential methodologies.&#xA;I believe that school kills creativity, self-esteem, and most importantly, sensitivity in individuals, which has larger implications on society.&#xA;I am passionate about co-creating learning journeys with young adults, fostering safe, dialogic spaces, sharing reflective tools, and inviting them for ‘self-directed learning’.&#xA;This includes:&#xA;Facilitating theatre and outdoor/nature-based experiential learning programs, projects, residential camps, yatra, internships, weekly meetups, and more.</description>
-      <content:encoded><![CDATA[<p>I craft transformative learning journeys for children and young adults, through experiential methodologies.</p>
+      <content:encoded><![CDATA[<p><img alt="Mihir Pathak" src="/mp-about.png"></p>
+<p><strong>I craft transformative learning journeys for children and young adults, through experiential methodologies.</strong></p>
 <p>I believe that school kills creativity, self-esteem, and most importantly, sensitivity in individuals, which has larger implications on society.</p>
 <p>I am passionate about co-creating learning journeys with young adults, fostering safe, dialogic spaces, sharing reflective tools, and inviting them for <a href="https://www.youtube.com/watch?v=YoE480mzrk0">‘self-directed learning’</a>.</p>
 <p><em>This includes:</em></p>
@@ -30,10 +31,10 @@
 <p><strong>Highlights from my learning journey:</strong></p>
 <ul>
 <li>
-<p><strong>Self-Directed Learning:</strong> I left formal schooling after the 10th grade and embarked on a journey of self-exploration, diving into fields like web development, content writing, marketing, and theatre. Later, I completed my 12th grade and earned a BA in Sociology as an external student.</p>
+<p><strong>Self-Directed Learning:</strong> I left formal schooling after the 10th grade and embarked on a journey of self-exploration, diving into fields like web development, content writing, marketing, theatre and education / working with children. Later, I completed my 12th grade and earned a BA in Sociology as an external student. Read &ndash;&gt; <a href="https://yourstory.com/2015/04/learnlabs-mihir-pathak/amp">19 year old village lad drops out of college, starts an alternative education centre</a></p>
 </li>
 <li>
-<p><strong>Diverse Experience with Children:</strong> I have worked with children across various socioeconomic backgrounds in rural areas and cities such as Bangalore, Mumbai, Kutch, Dharampur (a tribal area), Ahmedabad, and a village in Vadodara.</p>
+<p><strong>Diverse Experience with Children:</strong> I have worked with children across various socioeconomic backgrounds in rural areas and cities such as Bangalore, Mumbai, Kutch, Dharampur (a tribal area in Guj), Ahmedabad, and Vadodara.</p>
 </li>
 <li>
 <p><strong>Innovative Learning Spaces:</strong> My work spans learning environments with distinct structures and methodologies, including CBSE, GSEB, Ashramshala, democratic schools, and homeschooling groups.</p>
@@ -54,7 +55,7 @@
 <p><strong>Time with Children:</strong> On average, I’ve spent 6 hours a day with children for the past 11 years. learning &amp; unlearning with them.</p>
 </li>
 <li>
-<p><strong>Workshops &amp; Camps:</strong> I’ve facilitated over 50 workshops, camps, and sessions for children and teachers on a wide range of topics, including design thinking, nature education, filmmaking, civic problem-solving, creative computing, film appreciation, interdisciplinary projects, and experiential learning.</p>
+<p><strong>Workshops &amp; Camps:</strong> I’ve facilitated over 50 workshops, camps, and sessions for children and teachers on a wide range of topics, including design thinking, nature education, filmmaking, civic problem-solving, creative computing, film appreciation, interdisciplinary projects, and experiential learning. (you can see documention here &ndash;&gt; <a href="/work/">work</a>)</p>
 </li>
 <li>
 <p><strong>Continued Learning:</strong> I’ve pursued numerous online and offline courses in areas like child development, geo-inquiry projects, project-based learning, nature and climate education, creative computing, children&rsquo;s literature writing, and screenwriting, from institutions like the National Geographic Society, Green School Bali, Eklavya Foundation, and MIT Media Lab.</p>
@@ -66,7 +67,7 @@
 <p><strong>Faculty Member:</strong> For the past five years, I’ve been part of the faculty team for the <em>Child Development, Learning &amp; Special Needs</em> course at the Eklavya Foundation.</p>
 </li>
 <li>
-<p><strong>Published Works:</strong> My articles on education and learning have been featured in prominent publications like <em>Teacher Plus</em> and <em>Pathshala Bhitar Bahar</em> by Azim Premji University.</p>
+<p><strong>Published Works:</strong> My articles on education and learning have been featured in prominent publications like <em>Teacher Plus</em> and <em>Pathshala Bhitar Bahar</em> by Azim Premji University. (You can read it here &ndash;&gt; <a href="/writings/">Writings</a>)</p>
 </li>
 </ul>
 <hr>
@@ -74,6 +75,12 @@
 <p><img alt="Working with children" src="/teacher.jpeg"></p>
 <!-- raw HTML omitted -->
 <hr>
+<ul>
+<li><a href="/work/">Work</a> &ndash;&gt; On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.</li>
+<li><a href="/now/">Now</a> &ndash;&gt; on this page I keep an up-to-date list of the things I&rsquo;m focussing on and what I&rsquo;m doing.</li>
+<li><a href="/about-me/">About</a> &ndash;&gt; on this page I have put highlights from my learning journey and core intention about my work</li>
+<li>You can visit my <a href="https://www.instagram.com/learningwala/">instagram profile</a> for pictorial updates.</li>
+</ul>
 ]]></content:encoded>
     </item>
     <item>
@@ -81,17 +88,8 @@
       <link>http://localhost:1313/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mihir@learningwala.in (Mihir Pathak)</author>
       <guid>http://localhost:1313/work/</guid>
-      <description>Currently I am working on two projects&#xA;Khoji Club (Every Sunday) self directed learning place {Self directed projects + workshops + travel + lots fun &amp;amp; more} Nature Education workshops with Nidhi (Paper ball - once in a month, Mitali ben&amp;rsquo;s school &amp;amp; Sai&amp;rsquo;s angel learning center - once in a week) Please visit now page or my instagram profile for latest update of my workshops and other work&#xA;Vadodra - May 2024 to Present Ant Walk | 12th May 2024</description>
-      <content:encoded><![CDATA[<p>Currently I am working on two projects</p>
-<ul>
-<li><strong>Khoji Club</strong> (Every Sunday) self directed learning place {Self directed projects + workshops + travel + lots fun &amp; more}</li>
-<li><strong>Nature Education workshops</strong> with Nidhi (Paper ball - once in a month, Mitali ben&rsquo;s school &amp; Sai&rsquo;s angel learning center - once in a week)</li>
-</ul>
-<blockquote>
-<p>Please visit <a href="/now/">now page</a> or my <a href="https://www.instagram.com/learningwala/">instagram profile</a> for latest update of my workshops and other work</p>
-</blockquote>
-<hr>
-<h3 id="vadodra---may-2024-to-present">Vadodra - May 2024 to Present</h3>
+      <description>Vadodra - May 2024 to Present Ant Walk | 12th May 2024&#xA;Curiosity Map | 18th May 2024&#xA;Futurology | 26th May 2024&#xA;Climate and Consumption | 23th June 2024&#xA;Nature Journaling | 23th June 2024&#xA;Local Khoji Event | 28th July 2024&#xA;Nature Education Course with Paperball &amp;amp; Vinoba Ashram - Session 1 (Facilitated by Nidhi) | 18th Aug 2024&#xA;Fun with microscope (Facilitated by Nidhi) | 25th Aug 2024</description>
+      <content:encoded><![CDATA[<h3 id="vadodra---may-2024-to-present">Vadodra - May 2024 to Present</h3>
 <ul>
 <li>
 <p><a href="https://www.instagram.com/p/C626_y8IXEw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Ant Walk | 12th May 2024</a></p>
@@ -119,6 +117,9 @@
 </li>
 <li>
 <p>Nature Education Course with Paperball &amp; Vinoba Ashram - <strong>Session 2</strong> (Facilitated by Nidhi) | 1st Sep 2024</p>
+</li>
+<li>
+<p>Nature &amp; Me session at Mitaliben&rsquo;s school - <strong>Session 1</strong> (Facilitated by Nidhi) | 11th Sep 2024</p>
 </li>
 </ul>
 <h3 id="aug-2023-to-feb-2024">Aug 2023 to Feb 2024</h3>
@@ -148,7 +149,7 @@
 <p><a href="https://www.instagram.com/p/CwFb5EGoa1M/?img_index=1">Nature Education Through Games (Aug 2023)</a></p>
 </li>
 </ul>
-<p><em><strong>Work apart from nature education</strong></em> </p>
+<p><strong>Work apart from nature education</strong></p>
 <ul>
 <li>
 <p><a href="https://howaboutseeingbeng.wixsite.com/seeing-bengaluru">How about seeing bengaluru - Elective course at BeMe</a>  (- Website)  &amp;     <a href="https://www.instagram.com/p/Cw0LuDDS4nR/?igsh=MXB4dDlzeGkxbTZzMw==">Some Pictures</a></p>
@@ -292,6 +293,95 @@ You can read detailed documentation (photos/videos/notes/etc) <a href="https://
 <p><a href="https://drive.google.com/file/d/1BP4kSWICew311UJA1X0Tb5C7-dWT2Fcj/view">Ecobuddy Magazine by children</a></p>
 </li>
 </ul>
+<hr>
+<ul>
+<li><a href="/work/">Work</a> &ndash;&gt; On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.</li>
+<li><a href="/now/">Now</a> &ndash;&gt; on this page I keep an up-to-date list of the things I&rsquo;m focussing on and what I&rsquo;m doing.</li>
+<li><a href="/about-me/">About</a> &ndash;&gt; on this page I have put highlights from my learning journey and core intention about my work</li>
+<li>You can visit my <a href="https://www.instagram.com/learningwala/">instagram profile</a> for pictorial updates.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Now</title>
+      <link>http://localhost:1313/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mihir@learningwala.in (Mihir Pathak)</author>
+      <guid>http://localhost:1313/now/</guid>
+      <description>What I’m doing now I live in Vadodara, India. I spend my time on&#xA;I spend time with my parents and my partner Nidhi.&#xA;I write weekly notes and occasionally I write blog posts&#xA;I am working on my health nowadays. I am trying a naturopathy diet + fix routine + daily yoga (suryanamaskar, basic stretching, back exercise, evening walk. I need to start pranayam, meditation, cycling / running)&#xA;Work with children</description>
+      <content:encoded><![CDATA[<h2 id="what-im-doing-now">What I’m doing now</h2>
+<p><strong>I live in Vadodara, India. I spend my time on</strong></p>
+<ul>
+<li>
+<p>I spend time with my parents and my partner Nidhi.</p>
+</li>
+<li>
+<p>I write weekly notes and occasionally I write <a href="https://learningwala.in/tags/public/">blog posts</a></p>
+</li>
+<li>
+<p>I am working on my health nowadays. I am trying a naturopathy diet + fix routine + daily yoga (suryanamaskar, basic stretching, back exercise, evening walk. I need to start pranayam, meditation, cycling / running)</p>
+</li>
+</ul>
+<p><strong>Work with children</strong></p>
+<ul>
+<li>
+<p><strong>Khoji Club :</strong> I am facilitating a weekend &lsquo;self directed learning club&rsquo; called &lsquo;khoji club&rsquo; where children do projects, learn new skills from the internet, mentor, peers and more.</p>
+</li>
+<li>
+<p><strong>Nature Education workshops :</strong> Nidhi got &lsquo;Teach for Nature Fellowship&rsquo; from Bhoomi Collage, Bangalore. She is facilitating nature education sessions with children at 3 places.
+I am helping her with facilitation tips, planning the session and brainstorming new ideas.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Other</strong></p>
+<ul>
+<li>
+<p><strong>Volunteering for Earth Educator fellowship at <a href="https://www.youcan.in/">YouCAN</a> :</strong> I am giving my time to be in the interview panel for the fellow selection process of Earth Educator Fellow - new batch.</p>
+</li>
+<li>
+<p><strong>Helping to start a podcast  :</strong> Impana and Satvika (teenagers from BeMe) want to start their own podcast about the people who made offbeat choices in their life. I am helping them to get mentors, doing research for the interview. We meet every Thursday evening at 9pm.</p>
+</li>
+<li>
+<p><strong>I am working as senior content developer (environmental domain) :</strong> at Pratham Education Foundation.
+My work includes Writing scripts and other digital content for topics related to climate / nature / environment education.
+Creating digital content on 21st century skills through projects for the project called ‘Creativity Club’</p>
+</li>
+</ul>
+<hr>
+<ul>
+<li><a href="/work/">Work</a> &ndash;&gt; On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.</li>
+<li><a href="/now/">Now</a> &ndash;&gt; on this page I keep an up-to-date list of the things I&rsquo;m focussing on and what I&rsquo;m doing.</li>
+<li><a href="/about-me/">About</a> &ndash;&gt; on this page I have put highlights from my learning journey and core intention about my work</li>
+<li>You can visit my <a href="https://www.instagram.com/learningwala/">instagram profile</a> for pictorial updates.</li>
+</ul>
+<p>Inspiration: <a href="nownownow.com">nownownow.com</a> | last updated on 11th Sep 2024</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>http://localhost:1313/writings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mihir@learningwala.in (Mihir Pathak)</author>
+      <guid>http://localhost:1313/writings/</guid>
+      <description>Writing and published work My learning experiences with children (Classroom experiences, Toolkit for facilitation)&#xA;Jashn e Taleem (यह ब्लॉग मध्यप्रदेश के होशंगाबाद ज़िल्ले में चल रहे प्रोजेक्ट ‘Holistic Initiative Towards Educational Change’ से जुड़े साथीयो के अनुभव और चिंतन को साझा करने की कोशिश है ।)&#xA;Khoj (Resources, Ideas and Inspiration for Gap (Bridge) Year/Alternative Explorations in India!)&#xA;Articles in different magazines Article on Tinkering - Teacher Plus Magazine&#xA;Article on Project Based Learning - Sandarbh Magazine</description>
+      <content:encoded><![CDATA[<h3 id="writing-and-published-work">Writing and published work</h3>
+<p><a href="https://medium.com/learningwala">My learning experiences with children</a>  (Classroom experiences, Toolkit for facilitation)</p>
+<p><a href="https://medium.com/jashnetaleem">Jashn e Taleem</a> (यह ब्लॉग मध्यप्रदेश के होशंगाबाद ज़िल्ले में चल रहे प्रोजेक्ट ‘Holistic Initiative Towards Educational Change’ से जुड़े साथीयो के अनुभव और चिंतन को साझा करने की कोशिश है ।)</p>
+<p><a href="https://medium.com/khoj">Khoj</a> (Resources, Ideas and Inspiration for Gap (Bridge) Year/Alternative Explorations in India!)</p>
+<hr>
+<h3 id="articles-in-different-magazines">Articles in different magazines</h3>
+<p><a href="https://www.teacherplus.org/tinkering-how-we-can-think-with-our-hands/">Article on Tinkering - Teacher Plus Magazine</a></p>
+<p><a href="https://www.eklavya.in/pdfs/Sandarbh/Sandarbh_139/51-58_Story_of_Food.pdf">Article on Project Based Learning - Sandarbh Magazine</a></p>
+<p><a href="https://drive.google.com/file/d/1sKkTLxn8O14zU0wGwDa0jjtNTq_o6eVs/view">Gamle Mein Jungle by Vinod Kumar Shukla | Book Review</a></p>
+<p><a href="https://www.instagram.com/p/Cfl7EaivoDx/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==">Published poem for children - Man Moji Kabutar</a></p>
+<p><a href="https://balmurtionline.com/2020/12/01/december2020-issue1-ank6/">Article on &lsquo;How to develop imagination skill&rsquo; - Balmurti Online</a></p>
+<p><a href="https://medium.com/learningwala/%E0%AA%85%E0%AA%A7%E0%AB%8D%E0%AA%AF%E0%AA%BE%E0%AA%AA%E0%AA%A8-%E0%AA%95%E0%AA%B0%E0%AA%A4%E0%AA%BE%E0%AA%82-%E0%AA%85%E0%AA%A7%E0%AB%8D%E0%AA%AF%E0%AA%AF%E0%AA%A8-%E0%AA%AE%E0%AA%B9%E0%AA%A4%E0%AB%8D%E0%AA%B5%E0%AA%A8%E0%AB%81-%E0%AA%9B%E0%AB%87-85593922eff8">Article on &lsquo;Science of learning&rsquo; - Mid Day Gujarati</a></p>
+<h3 id="self-published-books">Self Published Books</h3>
+<p><a href="https://drive.google.com/file/d/16O6eJYkJ6MTyihHiA0RhVPBX9Cjs36vR/view?usp=sharing">Silent Zone | Hindi Story</a></p>
+<p><a href="https://public.3.basecamp.com/p/sVWy21WAwi49BcVfHuY5zhi6">Bilori Kaanch | Gujarati Book - Poems &amp; Essays by Mihir</a></p>
+<p><a href="https://drive.google.com/file/d/1gHdtX9g-0WuWmTsu3rjST2f44zAfTGjh/view?usp=drive_link">Kiki &amp; Krisha | Gujarati Story Book</a> </p>
+<p><a href="https://drive.google.com/file/d/162x9wxpI8izhcLiB0jvQ71JjOv4Kylu5/view?usp=sharing">Collection of earth centric stories - Curation</a></p>
+<hr>
+<p><a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODYxMTcyMzIwNjAyMzk0?story_media_id=2643794179595950904_3727860670&igsh=MWVjMTlqdXNkeTR6ag==">I like writing poems in gujarati &amp; hindi &ndash;&gt;</a> (Instagram Highlight link)</p>
+<hr>
 ]]></content:encoded>
     </item>
     <item>
@@ -365,50 +455,6 @@ You can read detailed documentation (photos/videos/notes/etc) <a href="https://
 ]]></content:encoded>
     </item>
     <item>
-      <title>Writing</title>
-      <link>http://localhost:1313/writings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mihir@learningwala.in (Mihir Pathak)</author>
-      <guid>http://localhost:1313/writings/</guid>
-      <description>Writing and published work My learning experiences with children (Classroom experiences, Toolkit for facilitation)&#xA;Jashn e Taleem (यह ब्लॉग मध्यप्रदेश के होशंगाबाद ज़िल्ले में चल रहे प्रोजेक्ट ‘Holistic Initiative Towards Educational Change’ से जुड़े साथीयो के अनुभव और चिंतन को साझा करने की कोशिश है ।)&#xA;Khoj (Resources, Ideas and Inspiration for Gap (Bridge) Year/Alternative Explorations in India!)&#xA;Articles in different magazines Article on Tinkering - Teacher Plus Magazine&#xA;Article on Project Based Learning - Sandarbh Magazine</description>
-      <content:encoded><![CDATA[<h3 id="writing-and-published-work">Writing and published work</h3>
-<p><a href="https://medium.com/learningwala">My learning experiences with children</a>  (Classroom experiences, Toolkit for facilitation)</p>
-<p><a href="https://medium.com/jashnetaleem">Jashn e Taleem</a> (यह ब्लॉग मध्यप्रदेश के होशंगाबाद ज़िल्ले में चल रहे प्रोजेक्ट ‘Holistic Initiative Towards Educational Change’ से जुड़े साथीयो के अनुभव और चिंतन को साझा करने की कोशिश है ।)</p>
-<p><a href="https://medium.com/khoj">Khoj</a> (Resources, Ideas and Inspiration for Gap (Bridge) Year/Alternative Explorations in India!)</p>
-<hr>
-<h3 id="articles-in-different-magazines">Articles in different magazines</h3>
-<p><a href="https://www.teacherplus.org/tinkering-how-we-can-think-with-our-hands/">Article on Tinkering - Teacher Plus Magazine</a></p>
-<p><a href="https://www.eklavya.in/pdfs/Sandarbh/Sandarbh_139/51-58_Story_of_Food.pdf">Article on Project Based Learning - Sandarbh Magazine</a></p>
-<p><a href="https://drive.google.com/file/d/1sKkTLxn8O14zU0wGwDa0jjtNTq_o6eVs/view">Gamle Mein Jungle by Vinod Kumar Shukla | Book Review</a></p>
-<p><a href="https://www.instagram.com/p/Cfl7EaivoDx/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==">Published poem for children - Man Moji Kabutar</a></p>
-<p><a href="https://balmurtionline.com/2020/12/01/december2020-issue1-ank6/">Article on &lsquo;How to develop imagination skill&rsquo; - Balmurti Online</a></p>
-<p><a href="https://medium.com/learningwala/%E0%AA%85%E0%AA%A7%E0%AB%8D%E0%AA%AF%E0%AA%BE%E0%AA%AA%E0%AA%A8-%E0%AA%95%E0%AA%B0%E0%AA%A4%E0%AA%BE%E0%AA%82-%E0%AA%85%E0%AA%A7%E0%AB%8D%E0%AA%AF%E0%AA%AF%E0%AA%A8-%E0%AA%AE%E0%AA%B9%E0%AA%A4%E0%AB%8D%E0%AA%B5%E0%AA%A8%E0%AB%81-%E0%AA%9B%E0%AB%87-85593922eff8">Article on &lsquo;Science of learning&rsquo; - Mid Day Gujarati</a></p>
-<h3 id="self-published-books">Self Published Books</h3>
-<p><a href="https://drive.google.com/file/d/16O6eJYkJ6MTyihHiA0RhVPBX9Cjs36vR/view?usp=sharing">Silent Zone | Hindi Story</a></p>
-<p><a href="https://public.3.basecamp.com/p/sVWy21WAwi49BcVfHuY5zhi6">Bilori Kaanch | Gujarati Book - Poems &amp; Essays by Mihir</a></p>
-<p><a href="https://drive.google.com/file/d/1gHdtX9g-0WuWmTsu3rjST2f44zAfTGjh/view?usp=drive_link">Kiki &amp; Krisha | Gujarati Story Book</a> </p>
-<p><a href="https://drive.google.com/file/d/162x9wxpI8izhcLiB0jvQ71JjOv4Kylu5/view?usp=sharing">Collection of earth centric stories - Curation</a></p>
-<hr>
-<p><a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODYxMTcyMzIwNjAyMzk0?story_media_id=2643794179595950904_3727860670&igsh=MWVjMTlqdXNkeTR6ag==">I like writing poems in gujarati &amp; hindi &ndash;&gt;</a> (Instagram Highlight link)</p>
-<hr>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>CV</title>
-      <link>http://localhost:1313/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mihir@learningwala.in (Mihir Pathak)</author>
-      <guid>http://localhost:1313/cv/</guid>
-      <description>Mihir - CV (May 2024) Portfolio, CV &amp;amp; Reflective Notes My Quest as an Educator | Why - What - How about my work&#xA;Reflective Note (May 2022 to May 2023)&#xA;Portfolio, CV &amp;amp; Reflective Notes (Archive)</description>
-      <content:encoded><![CDATA[<ul>
-<li><a href="/mihir-cv-july-24/">Mihir - CV (May 2024)</a></li>
-</ul>
-<h3 id="portfolio-cv--reflective-notes">Portfolio, CV &amp; Reflective Notes</h3>
-<p><a href="https://docs.google.com/presentation/d/1VnbxMVMXTT7qGegZyZ76mkT8uQEz9HwTFtLVoSGwGss/edit?usp=sharing">My Quest as an Educator | Why - What - How about my work</a></p>
-<p><a href="https://docs.google.com/document/d/1l1eEPT19b5cLmwTlxiotxDHdmklKky8AyeoVHZSsBDU/edit?usp=sharing">Reflective Note (May 2022 to May 2023)</a></p>
-<p><a href="https://public.3.basecamp.com/p/iHX1L5e9odAv9HkTBpvZep15">Portfolio, CV &amp; Reflective Notes (Archive)</a></p>
-<hr>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Week 36/2024</title>
       <link>http://localhost:1313/blog/week-36-2024/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate><author>mihir@learningwala.in (Mihir Pathak)</author>
@@ -430,7 +476,7 @@ My evening session at sai&rsquo;s angel foundation got canceled because their of
 </li>
 <li>
 <p>Wednesday we went to Nisarag Upchar Kendra (Vinoba Ashram) to take naturopathy treatment for me and nidhi. It was a long due.
-We got a new routine and diet. We need to Millets, fruits, soups :)</p>
+We got a new routine and diet. We need to eat Millets, fruits, soups :)</p>
 </li>
 <li>
 <p>Thursday, Friday - again busy days at work. Following a new routine is fun + a little difficult. Especially since there are three people at home.
@@ -467,7 +513,7 @@ Not getting uncomfortable in anything</p>
 <p>He is not following routine at all, all day watching reels or tarak mehta.. All day putting earphones in ears. Waking up like 10 - 11 everyday…</p>
 <p>Actually I am ok with routine because, eventually he will get bored and find some activity to learn.
 We gave some options like gym, swimming, coaching class for CUET exam, Ankur warikoo’s online course about communication, self learning math and other subjects</p>
-<p>He is doing that online course sometimes, and sometimes he does self learning for math.
+<p>He is doing that online course sometimes, and sometimes he does self learning for math. other options are on hold because of rain and willingness
 But it is like 2 hrs a day.. All the other time goes on mobile..</p>
 <p>I am doubtful that mobile phones will not give the opportunity to get bored.
 Let’s see…</p>
@@ -525,9 +571,9 @@ I am greatful to her for creating this safe space of sharing</p>
       <link>http://localhost:1313/blog/week-34-2024/</link>
       <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate><author>mihir@learningwala.in (Mihir Pathak)</author>
       <guid>http://localhost:1313/blog/week-34-2024/</guid>
-      <description>17th to 24th August 2024 &amp;ndash;&amp;gt; Sunday Nidhi and I took a workshop at Vinoba Ashram on biodiversity. It was in collaboration with Amit bhai (paper ball education and Vinoba ashram). I was stressed because of home stuff and not sure if I can facilitate it or not. I was thinking about not going to the workshop but nidhi was very keen that you need to come. But I sent a msg to Amit bhai saying that I will not co facilitate, I am in a good state of mind.</description>
+      <description>17th to 24th August 2024 &amp;ndash;&amp;gt; Sunday Nidhi and I took a workshop at Vinoba Ashram on biodiversity. It was in collaboration with Amit bhai (paper ball education and Vinoba ashram). I was stressed because of home stuff and not sure if I can facilitate it or not. I was thinking about not going to the workshop but nidhi was very keen that you need to come. But I sent a msg to Amit bhai saying that I will not co facilitate, I am not in a good state of mind.</description>
       <content:encoded><![CDATA[<h4 id="17th-to-24th-august-2024">17th to 24th August 2024</h4>
-<p>&ndash;&gt; Sunday Nidhi and I took a workshop at Vinoba Ashram on biodiversity. It was in collaboration with Amit bhai (paper ball education and Vinoba ashram). I was stressed because of home stuff and not sure if I can facilitate it or not. I was thinking about not going to the workshop but nidhi was very keen that you need to come. But I sent a msg to Amit bhai saying that I will not co facilitate, I am in a good state of mind.In the morning we went, and when I saw children I couldn’t resist to go on the floor 🙂</p>
+<p>&ndash;&gt; Sunday Nidhi and I took a workshop at Vinoba Ashram on biodiversity. It was in collaboration with Amit bhai (paper ball education and Vinoba ashram). I was stressed because of home stuff and not sure if I can facilitate it or not. I was thinking about not going to the workshop but nidhi was very keen that you need to come. But I sent a msg to Amit bhai saying that I will not co facilitate, I am not in a good state of mind.In the morning we went, and when I saw children I couldn’t resist to go on the floor 🙂</p>
 <p>Also I wanted to support Nidhi. It went well. It was not a very well planned session but it was the first session and everything was new for Nidhi so she did planning according to her understanding. I gave very less time to planning. Next time we will do more tight planning.</p>
 <p>I can see Nidhi growing as a facilitator. She is opening up slowly. She needs to learn how to judge the group and decide the activities.</p>
 <p>Working with Amit bhai is a little bit difficult because of his expectations and ideas about the activities. But his intention is good so we will figure it out. We will figure out a way to work together.</p>
@@ -706,9 +752,17 @@ thik he let&rsquo;s be with this. I am happy about this.</p>
 Jacob Singh (CTO in Residence for Sequoia Capital in South East Asia and India)</p>
 <p>I like both the episodes so much. Apart from tech both the episodes were filled with philosophies. Here I would like to share one thought shared by Jacob about motivation for the work.</p>
 <p>He shared that intrinsic motivation for work comes from three things :</p>
-<p>Autonomy
-Mastry
-Connectedness / Purpose</p>
+<ul>
+<li>
+<p>Autonomy</p>
+</li>
+<li>
+<p>Mastry</p>
+</li>
+<li>
+<p>Connectedness / Purpose</p>
+</li>
+</ul>
 <p><strong>Here you go :</strong></p>
 <p><a href="https://www.youtube.com/watch?v=QEZMSbeziEw&t=870s">14:30</a> What motivates engineers?</p>
 <p><strong>Full episode :</strong></p>
@@ -2027,9 +2081,9 @@ but it is not available for self hosting, what if this project got stopped ? Wha
 <p><em>This website too simple, ugly, no modern features</em></p>
 <p>And no Js, No cookies, no tracker, fast, clean, functional, you own the data, you can develop in your own ways, less energy usage, less computing power usage</p>
 <p><strong>let&rsquo;s find why, what and How about low tech website :</strong></p>
-<p><a href="https://www.resilience.org/stories/2018-09-27/how-to-build-a-low-tech-website/">- How to Build a Low-tech Website?</a>
-<a href="https://lente.dev/en/posts/stone-websites/">- Stone websites</a>
-<a href="https://jeffhuang.com/designed_to_last/">- This Page is Designed to Last</a></p>
+<p><a href="https://www.resilience.org/stories/2018-09-27/how-to-build-a-low-tech-website/">- How to Build a Low-tech Website?</a></p>
+<p><a href="https://lente.dev/en/posts/stone-websites/">- Stone websites</a></p>
+<p><a href="https://jeffhuang.com/designed_to_last/">- This Page is Designed to Last</a></p>
 <p><strong>My ultimate dream is to host my own static site on solar powered raspberry pi<br>
 someday I will do it for sure.</strong></p>
 <p>Thank you</p>
@@ -2585,36 +2639,19 @@ I helped to deploy the different learning technologies by the World Possible in 
 ]]></content:encoded>
     </item>
     <item>
-      <title>What I’m doing now :</title>
-      <link>http://localhost:1313/now/</link>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mihir@learningwala.in (Mihir Pathak)</author>
-      <guid>http://localhost:1313/now/</guid>
-      <description>Now This page is inspired by nownownow.com&#xA;last updated on 6th Sep 2024&#xA;I am working as senior content developer (environmental domain) at Pratham Education Foundation. My work includes Writing scripts and other digital content for topics related to climate / nature / environment education. Creating digital content on 21st century skills through projects for the project called ‘Creativity Club’&#xA;Khoji Club (Every Sunday) self directed learning place {Self directed projects + workshops + travel + lots fun &amp;amp; more}</description>
-      <content:encoded><![CDATA[<h2 id="now">Now</h2>
-<p>This page is inspired by <a href="https://nownownow.com/about">nownownow.com</a></p>
-<p>last updated on 6th Sep 2024</p>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>Mihir - CV (May 2024) Portfolio, CV &amp;amp; Reflective Notes My Quest as an Educator | Why - What - How about my work&#xA;Reflective Note (May 2022 to May 2023)&#xA;Portfolio, CV &amp;amp; Reflective Notes (Archive)</description>
+      <content:encoded><![CDATA[<ul>
+<li><a href="/mihir-cv-july-24/">Mihir - CV (May 2024)</a></li>
+</ul>
+<h3 id="portfolio-cv--reflective-notes">Portfolio, CV &amp; Reflective Notes</h3>
+<p><a href="https://docs.google.com/presentation/d/1VnbxMVMXTT7qGegZyZ76mkT8uQEz9HwTFtLVoSGwGss/edit?usp=sharing">My Quest as an Educator | Why - What - How about my work</a></p>
+<p><a href="https://docs.google.com/document/d/1l1eEPT19b5cLmwTlxiotxDHdmklKky8AyeoVHZSsBDU/edit?usp=sharing">Reflective Note (May 2022 to May 2023)</a></p>
+<p><a href="https://public.3.basecamp.com/p/iHX1L5e9odAv9HkTBpvZep15">Portfolio, CV &amp; Reflective Notes (Archive)</a></p>
 <hr>
-<ul>
-<li>
-<p><strong>I am working as senior content developer (environmental domain)</strong> at Pratham Education Foundation.
-My work includes Writing scripts and other digital content for topics related to climate / nature / environment education.
-Creating digital content on 21st century skills through projects for the project called ‘Creativity Club’</p>
-</li>
-<li>
-<p><strong>Khoji Club</strong> (Every Sunday) self directed learning place {Self directed projects + workshops + travel + lots fun &amp; more}</p>
-</li>
-<li>
-<p><strong>Nature Education workshops</strong> with Nidhi (Paper ball - once in a month, Mitali ben&rsquo;s school &amp; Sai&rsquo;s angel learning center - once in a week)</p>
-</li>
-<li>
-<p><strong>Volunteering for Earth Educator fellowship at YouCAN</strong></p>
-</li>
-</ul>
-<p>I am giving my time to be in interview panel  (fellow selection process for new batch)</p>
-<ul>
-<li><strong>Helping to start podcast project to BeMe children (Impana and Satvika)</strong></li>
-</ul>
-<p>We meet every thrusday evening 9pm</p>
 ]]></content:encoded>
     </item>
   </channel>
