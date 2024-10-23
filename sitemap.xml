@@ -162,12 +162,12 @@
   </url><url>
     <loc>http://localhost:1313/cv/</loc>
   </url><url>
-    <loc>http://localhost:1313/ourneeds/</loc>
-  </url><url>
     <loc>http://localhost:1313/edu-for-me/</loc>
   </url><url>
     <loc>http://localhost:1313/msu/</loc>
   </url><url>
     <loc>http://localhost:1313/highlights/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ourneeds/</loc>
   </url>
 </urlset>
