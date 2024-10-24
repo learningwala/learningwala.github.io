@@ -168,6 +168,8 @@
   </url><url>
     <loc>http://localhost:1313/highlights/</loc>
   </url><url>
+    <loc>http://localhost:1313/m-anubhuti/</loc>
+  </url><url>
     <loc>http://localhost:1313/ourneeds/</loc>
   </url>
 </urlset>
