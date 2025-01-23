@@ -16,8 +16,8 @@
       <link>http://localhost:1313/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>learningwalamihir@gmail.com (Mihir Pathak)</author>
       <guid>http://localhost:1313/about-me/</guid>
-      <description>Hi, This is Mihir Pathak aka learningwala&#xA;I am passionate educator.&#xA;I never been to formal school after completing 10th grade. Later, I completed my 12th grade and pursued a BA in Sociology as an external student. I am working with children since the age of 18.&#xA;Instead of going to school, I spent time exploring website &amp;amp; software development, sales &amp;amp; marketing, theater, writing, design, technology, entrepreneurship and many more interests.</description>
-      <content:encoded><![CDATA[<p><img alt="Mihir Pathak" src="/mp-about.png"></p>
+      <description>About me : Hi, This is Mihir Pathak aka learningwala&#xA;I am passionate educator.&#xA;I never been to formal school after completing 10th grade. Later, I completed my 12th grade and pursued a BA in Sociology as an external student. I am working with children since the age of 18.&#xA;Instead of going to school, I spent time exploring website &amp;amp; software development, sales &amp;amp; marketing, theater, writing, design, technology, entrepreneurship and many more interests.</description>
+      <content:encoded><![CDATA[<h3 id="about-me-">About me :</h3>
 <p>Hi, This is Mihir Pathak aka learningwala</p>
 <p>I am passionate educator.</p>
 <p>I never been to formal school after completing 10th grade. Later, I completed my 12th grade and pursued a BA in Sociology as an external student. I am working with children since the age of 18.</p>
@@ -513,8 +513,9 @@ You can read detailed documentation (photos/videos/notes/etc) <a href="https://
       <link>http://localhost:1313/offerings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>learningwalamihir@gmail.com (Mihir Pathak)</author>
       <guid>http://localhost:1313/offerings/</guid>
-      <description> View this post on Instagram </description>
-      <content:encoded><![CDATA[<blockquote
+      <description>Offerings : View this post on Instagram </description>
+      <content:encoded><![CDATA[<h3 id="offerings-">Offerings :</h3>
+<blockquote
     class="instagram-media"
     data-instgrm-captioned
     data-instgrm-permalink="https://www.instagram.com/p/DD_peFtyIJ_"
@@ -765,7 +766,8 @@ You can read detailed documentation (photos/videos/notes/etc) <a href="https://
 <ul>
 <li>Tuesday : First half went in office meetings,</li>
 </ul>
-<p>→ I got to know about amazing work of <a href="https://www.early-bird.in/meet-an-educator-nayantara-siruguri/">Canopy Collective &amp; educator Nayantra Siruguri</a></p>
+<p>→ I got to know about amazing work of <a href="https://www.early-bird.in/meet-an-educator-nayantara-siruguri/">Canopy Collective &amp; educator Nayantra Siruguri</a> in Place based education</p>
+<p>→ I read about <a href="https://explorers.nationalgeographic.org/directory/arshiya-urveeja-bose">arshiya bose</a> and her venture <a href="https://www.instagram.com/blackbazacoffee/?hl=en">Black Baza Coffee Co</a></p>
 <p>→ 	I prepared for the first session I am going to facilutate for sakha fellowship. It is about biology of money. I refered podcast from <a href="https://www.youtube.com/watch?v=gf09vjWp3E4&t=1s">anand gandhi and kunal shah</a>. I am very excited about this session, let&rsquo;s see how it goes. Suraj made wonderful poster for the same.</p>
 <p><img alt="Poster" src="/w4.2025/biologyofmoneyposter.png"></p>
 <p>→ On Monday I wrote an email to <a href="https://adhavansivaraj.xyz/">Adhvan</a> about exploring tools for river mapping and tree mapping. He promptly replied and me, Nidhi and Adhvan had call on Tuesday evening. We asked for 30min call and it streched for an hour.</p>
