@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about-me/</loc>
   </url><url>
@@ -13,33 +13,30 @@
   </url><url>
     <loc>http://localhost:1313/media/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/about-page/offerings/</loc>
+    <loc>http://localhost:1313/about-me/offerings/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/personal/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/week-9-2025/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/weekly-notes/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/week-8-2025/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/weekly-notes/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/notes/msu/</loc>
+    <loc>http://localhost:1313/tags/blog/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/micro-grant/</loc>
-    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/notes/</loc>
-    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/notes/</loc>
+    <loc>http://localhost:1313/blog/micro-grant/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/week-7-2025/</loc>
@@ -47,9 +44,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/week-6-2025/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/i-asked-chatgpt/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
@@ -231,24 +225,20 @@
     <loc>http://localhost:1313/blog/my-blogging-journey/</loc>
     <lastmod>2024-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/about-page/mihir-cv-july-24/</loc>
+    <loc>http://localhost:1313/about-me/mihir-cv-july-24/</loc>
+  </url><url>
+    <loc>http://localhost:1313/archive/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/about-page/cv/</loc>
+    <loc>http://localhost:1313/about-me/cv/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/about-page/edu-for-me/</loc>
+    <loc>http://localhost:1313/about-me/edu-for-me/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/about-page/highlights/</loc>
+    <loc>http://localhost:1313/about-me/highlights/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/m-anubhuti/</loc>
+    <loc>http://localhost:1313/archive/now-2024/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/n-anubhuti/</loc>
-  </url><url>
-    <loc>http://localhost:1313/notes/now-2024/</loc>
-  </url><url>
-    <loc>http://localhost:1313/notes/ourneeds/</loc>
-  </url><url>
-    <loc>http://localhost:1313/notes/about-page/docu/</loc>
+    <loc>http://localhost:1313/about-me/docu/</loc>
   </url>
 </urlset>
