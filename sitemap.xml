@@ -18,7 +18,13 @@
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/aesthetics-sense-develoment-/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/blog/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/learning-resources/</loc>
     <lastmod>2025-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -26,9 +32,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/a-challenge-of-blog-questions/</loc>
     <lastmod>2025-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/learning-resources/</loc>
-    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/panchkosh/</loc>
     <lastmod>2025-03-03T00:00:00+00:00</lastmod>
